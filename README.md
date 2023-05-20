@@ -15,7 +15,7 @@ Key Components:
 - User Interface: Provides a simple command-line interface for players to interact with the game.
 
 Usage:
-1. Clone the repository: git clone https://github.com/your-username/connect-four-ai.git
+1. Clone the repository: git clone https://github.com/MohamedEslam99/connect-four-ai.git
 2. Navigate to the project directory: cd connect-four-ai
 3. Run the game: python main.py
 
